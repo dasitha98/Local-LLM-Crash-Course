@@ -29,3 +29,5 @@ The dataset on Hugging Face: https://huggingface.co/datasets/Open-Orca/OpenOrca
 pip install langchain langchain-community
 ```
 
+.\venv\Scripts\Activate
+chainlit run .\solutions\chainlit_stream.py
