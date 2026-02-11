@@ -30,4 +30,4 @@ pip install langchain langchain-community
 ```
 
 .\venv\Scripts\Activate
-chainlit run .\solutions\chainlit_stream.py
+chainlit run solutions/langchain/chainlit_with_langchain.py
